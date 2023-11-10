@@ -1,0 +1,1002 @@
+/* Home Section */
+
+.main {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.main .overlap-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1366px;
+  height: 768px;
+}
+
+.main .overlap {
+  position: relative;
+  width: 1440px;
+  height: 900px;
+  top: -66px;
+  left: -37px;
+  background-color: #000000;
+}
+
+.main .background-image {
+  position: absolute;
+  width: 1366px;
+  height: 768px;
+  top: 66px;
+  left: 37px;
+  object-fit: cover;
+}
+
+.main .main-menu {
+  position: absolute;
+  width: 1280px;
+  height: 82px;
+  top: 106px;
+  left: 117px;
+}
+
+.main .navbar {
+  display: flex;
+  width: 778px;
+  align-items: flex-start;
+  gap: 100px;
+  position: absolute;
+  top: 30px;
+  left: 298px;
+}
+
+.main .text-wrapper {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .group {
+  position: absolute;
+  width: 265px;
+  height: 82px;
+  top: 0;
+  left: 0;
+}
+
+.main .edu-tech {
+  position: absolute;
+  width: 166px;
+  height: 35px;
+  top: 27px;
+  left: 99px;
+}
+
+.main .pnc-logo {
+  position: absolute;
+  width: 80px;
+  height: 82px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.main .frame {
+  position: absolute;
+  width: 74px;
+  height: 20px;
+  top: 31px;
+  left: 1133px;
+}
+
+.main .main-text {
+  position: absolute;
+  width: 871px;
+  height: 319px;
+  top: 245px;
+  left: 285px;
+}
+
+.main .plates {
+  position: absolute;
+  width: 901px;
+  height: 181px;
+  top: 564px;
+  left: 269px;
+}
+
+.main .overlap-group {
+  position: relative;
+  height: 181px;
+}
+
+.main .plate {
+  top: 38px;
+  left: 4px;
+  transform: rotate(-7.2deg);
+  position: absolute;
+  width: 350px;
+  height: 80px;
+  background-color: #181818;
+  box-shadow: 7px 7px 5px #00000080;
+}
+
+.main .div {
+  position: absolute;
+  width: 264px;
+  height: 47px;
+  top: 14px;
+  left: 16px;
+}
+
+.main .text-wrapper-2 {
+  position: absolute;
+  width: 75px;
+  top: 0;
+  left: 0;
+  font-family: "Montserrat-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #ffa500;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.main .text-wrapper-3 {
+  position: absolute;
+  top: 11px;
+  left: 68px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.main .ph-x-bold {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 19px;
+  left: 300px;
+  transform: rotate(7.2deg);
+}
+
+.main .plate-2 {
+  top: 92px;
+  left: 269px;
+  transform: rotate(2.8deg);
+  position: absolute;
+  width: 350px;
+  height: 80px;
+  background-color: #181818;
+  box-shadow: 7px 7px 5px #00000080;
+}
+
+.main .text-wrapper-4 {
+  position: absolute;
+  width: 48px;
+  top: 14px;
+  left: 16px;
+  font-family: "Montserrat-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #ffa500;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.main .overlap-2 {
+  position: absolute;
+  width: 267px;
+  height: 48px;
+  top: 11px;
+  left: 73px;
+}
+
+.main .text-wrapper-5 {
+  width: 229px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .img {
+  position: absolute;
+  width: 38px;
+  height: 38px;
+  top: 9px;
+  left: 228px;
+  transform: rotate(-2.8deg);
+}
+
+.main .plate-3 {
+  top: 16px;
+  left: 548px;
+  transform: rotate(-5.46deg);
+  position: absolute;
+  width: 350px;
+  height: 80px;
+  background-color: #181818;
+  box-shadow: 7px 7px 5px #00000080;
+}
+
+.main .text-wrapper-6 {
+  position: absolute;
+  width: 47px;
+  top: 14px;
+  left: 16px;
+  font-family: "Montserrat-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #ffa500;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .text-wrapper-7 {
+  top: 25px;
+  left: 67px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .ph-x-bold-2 {
+  position: absolute;
+  width: 39px;
+  height: 39px;
+  top: 19px;
+  left: 300px;
+  transform: rotate(5.46deg);
+}
+
+/* About Us Section */
+
+.about {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.about .overlap-group-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1366px;
+  height: 768px;
+}
+
+.about .overlap-group {
+  position: relative;
+  width: 1440px;
+  height: 900px;
+  background-color: #039500;
+}
+
+.about .text-wrapper {
+  position: absolute;
+  top: 34px;
+  left: 80px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: #f5bd02;
+  font-size: 72px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.about .description {
+  position: absolute;
+  width: 671px;
+  height: 455px;
+  top: 140px;
+  left: 75px;
+}
+
+.about .div {
+  position: absolute;
+  width: 666px;
+  top: -1px;
+  left: 5px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.about .p {
+  position: absolute;
+  width: 666px;
+  top: 143px;
+  left: 2px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.about .edutech-is-not-just {
+  position: absolute;
+  width: 666px;
+  top: 320px;
+  left: 0;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.about .programming {
+  position: absolute;
+  width: 511px;
+  height: 768px;
+  top: 0;
+  left: 855px;
+  object-fit: cover;
+}
+
+.about .features {
+  position: absolute;
+  width: 664px;
+  height: 90px;
+  top: 618px;
+  left: 77px;
+}
+
+/* Gallery Section */
+
+.gallery {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.gallery .overlap-group-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1366px;
+  height: 768px;
+}
+
+.gallery .overlap-group {
+  position: relative;
+  width: 1440px;
+  height: 900px;
+  background-color: #f5bd02;
+}
+
+.gallery .text-wrapper {
+  position: absolute;
+  top: 39px;
+  left: 470px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: #039500;
+  font-size: 72px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.gallery .overlap {
+  position: absolute;
+  width: 1207px;
+  height: 530px;
+  top: 168px;
+  left: 79px;
+}
+
+.gallery .rectangle {
+  position: absolute;
+  width: 1206px;
+  height: 530px;
+  top: 0;
+  left: 1px;
+}
+
+.gallery .binary {
+  position: absolute;
+  width: 202px;
+  height: 168px;
+  top: 362px;
+  left: 1005px;
+  object-fit: cover;
+}
+
+.gallery .connect {
+  position: absolute;
+  width: 215px;
+  height: 168px;
+  top: 362px;
+  left: 756px;
+  object-fit: cover;
+}
+
+.gallery .managing {
+  position: absolute;
+  width: 215px;
+  height: 168px;
+  top: 362px;
+  left: 501px;
+  object-fit: cover;
+}
+
+.gallery .topology {
+  position: absolute;
+  width: 215px;
+  height: 168px;
+  top: 362px;
+  left: 245px;
+  object-fit: cover;
+}
+
+.gallery .information-systems {
+  position: absolute;
+  width: 210px;
+  height: 168px;
+  top: 362px;
+  left: 0;
+  object-fit: cover;
+}
+
+.gallery .cloud {
+  position: absolute;
+  width: 202px;
+  height: 168px;
+  top: 181px;
+  left: 1005px;
+  object-fit: cover;
+}
+
+.gallery .ML {
+  position: absolute;
+  width: 215px;
+  height: 168px;
+  top: 181px;
+  left: 756px;
+  object-fit: cover;
+}
+
+.gallery .collaboration {
+  position: absolute;
+  width: 215px;
+  height: 168px;
+  top: 181px;
+  left: 501px;
+  object-fit: cover;
+}
+
+.gallery .CMD {
+  position: absolute;
+  width: 215px;
+  height: 168px;
+  top: 181px;
+  left: 245px;
+  object-fit: cover;
+}
+
+.gallery .servers {
+  position: absolute;
+  width: 210px;
+  height: 168px;
+  top: 181px;
+  left: 1px;
+  object-fit: cover;
+}
+
+.gallery .codes {
+  width: 202px;
+  left: 1005px;
+  position: absolute;
+  height: 168px;
+  top: 0;
+  object-fit: cover;
+}
+
+.gallery .AI {
+  position: absolute;
+  width: 215px;
+  height: 168px;
+  top: 0;
+  left: 756px;
+  object-fit: cover;
+}
+
+.gallery .circuit {
+  position: absolute;
+  width: 215px;
+  height: 168px;
+  top: 0;
+  left: 501px;
+  object-fit: cover;
+}
+
+.gallery .img {
+  width: 215px;
+  left: 245px;
+  position: absolute;
+  height: 168px;
+  top: 0;
+  object-fit: cover;
+}
+
+.gallery .pixels {
+  position: absolute;
+  width: 210px;
+  height: 168px;
+  top: 0;
+  left: 1px;
+  object-fit: cover;
+}
+
+/* Features Section */
+
+.features {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.features .overlap-group-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1366px;
+  height: 768px;
+}
+
+.features .overlap-group {
+  position: relative;
+  width: 1440px;
+  height: 900px;
+  background-color: #000000;
+}
+
+.features .background {
+  position: absolute;
+  width: 1366px;
+  height: 768px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.features .frame {
+  height: 638px;
+  top: 65px;
+  left: 193px;
+  position: absolute;
+  width: 979px;
+}
+
+.features .text-wrapper {
+  position: absolute;
+  top: -1px;
+  left: 325px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: #f5bd02;
+  font-size: 72px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.features .div {
+  height: 500px;
+  top: 138px;
+  left: 0;
+  position: absolute;
+  width: 979px;
+}
+
+.features .plate {
+  left: 0;
+  position: absolute;
+  width: 307px;
+  height: 500px;
+  top: 0;
+  background-color: #f5bd02;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0px 7px 15px #00000026;
+}
+
+.features .mobile-learning {
+  position: absolute;
+  top: 32px;
+  left: 81px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 500;
+  color: #039500;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.features .p {
+  position: absolute;
+  width: 196px;
+  top: 295px;
+  left: 55px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #039500;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.features .vector {
+  position: absolute;
+  width: 108px;
+  height: 171px;
+  top: 122px;
+  left: 100px;
+}
+
+.features .plate-2 {
+  left: 336px;
+  position: absolute;
+  width: 307px;
+  height: 500px;
+  top: 0;
+  background-color: #f5bd02;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0px 7px 15px #00000026;
+}
+
+.features .text-wrapper-2 {
+  position: absolute;
+  width: 265px;
+  top: 33px;
+  left: 21px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 500;
+  color: #039500;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.features .social-icon {
+  position: absolute;
+  width: 155px;
+  height: 148px;
+  top: 136px;
+  left: 76px;
+}
+
+.features .plate-3 {
+  left: 672px;
+  position: absolute;
+  width: 307px;
+  height: 500px;
+  top: 0;
+  background-color: #f5bd02;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0px 7px 15px #00000026;
+}
+
+.features .adaptive-learning {
+  position: absolute;
+  top: 33px;
+  left: 81px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 500;
+  color: #039500;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.features .personalized {
+  position: absolute;
+  width: 196px;
+  top: 295px;
+  left: 56px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #039500;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.features .iconoir-learning {
+  position: absolute;
+  width: 120px;
+  height: 113px;
+  top: 147px;
+  left: 94px;
+}
+
+/* Contact Us Section */
+
+.contact-us {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.contact-us .overlap-group-wrapper {
+  background-color: #000000;
+  overflow: hidden;
+  width: 1366px;
+  height: 768px;
+}
+
+.contact-us .overlap-group {
+  position: relative;
+  width: 1367px;
+  height: 768px;
+  left: -1px;
+  background-color: #000000;
+}
+
+.contact-us .students {
+  position: absolute;
+  width: 636px;
+  height: 768px;
+  top: 0;
+  left: 1px;
+  object-fit: cover;
+}
+
+.contact-us .text-wrapper {
+  position: absolute;
+  width: 460px;
+  top: 57px;
+  left: 674px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #039500;
+  font-size: 72px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.contact-us .div {
+  position: absolute;
+  width: 326px;
+  top: 144px;
+  left: 674px;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-weight: 400;
+  color: #f5bd02;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.contact-us .form {
+  position: absolute;
+  width: 621px;
+  height: 451px;
+  top: 226px;
+  left: 694px;
+}
+
+.contact-us .name {
+  width: 623px;
+  height: 51px;
+  padding: 10px 517px 10px 10px;
+  position: absolute;
+  top: -1px;
+  left: -1px;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #039500;
+  background: none;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #f5bd02;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.contact-us .email {
+  width: 623px;
+  height: 51px;
+  padding: 10px 519px 10px 10px;
+  position: absolute;
+  top: 76px;
+  left: -1px;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #039500;
+  background: none;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #f5bd02;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.contact-us .message {
+  position: absolute;
+  width: 623px;
+  height: 200px;
+  top: 176px;
+  left: -1px;
+  border-radius: 10px;
+  border: 1px solid #039500;
+  color: #f5bd02;
+  background-color: #000000;
+  padding: 10px;
+}
+
+.contact-us .text-wrapper-2 {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #f5bd02;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.contact-us .button {
+  display: flex;
+  width: 171px;
+  height: 48px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 12px 36px;
+  position: absolute;
+  top: 403px;
+  left: 226px;
+  background-color: #f5bd02;
+  border: 2px solid #039500;
+  border-radius: 40px;
+  box-shadow: 0px 0px 25px #f5bd0240;
+  position: relative;
+  width: fit-content;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #039500;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.contact-us .button:hover {
+  background-color: #039500;
+  border: 2px solid #ffa500;
+  color: #ffa500;
+  cursor: pointer;
+  transition-duration: 0.6s;
+}
+
+/* Footer Section */
+
+.footer {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.footer .overlap-group-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1366px;
+  height: 400px;
+}
+
+.footer .overlap-group {
+  position: relative;
+  width: 1440px;
+  height: 400px;
+  background-color: #039500;
+}
+
+.footer .text-wrapper {
+  position: absolute;
+  width: 1190px;
+  top: 315px;
+  left: 92px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #f5bd02;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.footer .akar-icons-x-fill {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 210px;
+  left: 783px;
+}
+
+.footer .mdi-instagram {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 210px;
+  left: 653px;
+}
+
+.footer .ic-baseline-facebook {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 210px;
+  left: 523px;
+}
+
+.footer .pnc-logo {
+  position: absolute;
+  width: 125px;
+  height: 128px;
+  top: 56px;
+  left: 513px;
+  object-fit: cover;
+}
+
+.footer .itskills-logo {
+  position: absolute;
+  width: 200px;
+  height: 180px;
+  top: 30px;
+  left: 681px;
+  object-fit: cover;
+}
