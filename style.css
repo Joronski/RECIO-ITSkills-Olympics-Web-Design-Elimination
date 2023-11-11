@@ -363,6 +363,7 @@
   top: 0;
   left: 855px;
   object-fit: cover;
+  background-color: #039500;
 }
 
 .about .features {
@@ -371,6 +372,7 @@
   height: 90px;
   top: 618px;
   left: 77px;
+  background-color: #039500;
 }
 
 /* Gallery Section */
@@ -787,7 +789,7 @@
   position: absolute;
   width: 460px;
   top: 57px;
-  left: 674px;
+  left: 650px;
   font-family: "Montserrat-Bold", Helvetica;
   font-weight: 700;
   color: #039500;
@@ -802,7 +804,7 @@
   position: absolute;
   width: 326px;
   top: 144px;
-  left: 674px;
+  left: 650px;
   font-family: "Montserrat-Regular", Helvetica;
   font-weight: 400;
   color: #f5bd02;
@@ -824,7 +826,7 @@
 .contact-us .name {
   width: 623px;
   height: 51px;
-  padding: 10px 517px 10px 10px;
+  padding: 10px 10px 10px 10px;
   position: absolute;
   top: -1px;
   left: -1px;
@@ -844,7 +846,7 @@
 .contact-us .email {
   width: 623px;
   height: 51px;
-  padding: 10px 519px 10px 10px;
+  padding: 10px 10px 10px 10px;
   position: absolute;
   top: 76px;
   left: -1px;
@@ -865,6 +867,7 @@
   position: absolute;
   width: 623px;
   height: 200px;
+  font-family: "Inter-Medium", Helvetica;
   top: 176px;
   left: -1px;
   border-radius: 10px;
